@@ -37,6 +37,7 @@ let sendCourier = async function (req) {
 
 let route = async function (req) {
   return {
+    statusCode: 303,
     location: '/'
   }
 }
