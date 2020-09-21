@@ -6,15 +6,18 @@ A simple app with the minimum necessary file structure to get started on Begin.
 
 ## Deploy your own
 
-[![Deploy to Begin](https://static.begin.com/deploy-to-begin.svg)](https://begin.com/apps/create?template=https://github.com/begin-examples/node-minimal)
+[![Deploy to Begin](https://static.begin.com/deploy-to-begin.svg)](https://begin.com/apps/create?template=https://github.com/pchinjr/couriertoday)
 
 Deploy your own clone of this app to Begin!
 
 ## Getting started
 
-- Start the local dev server: `npm start`
-- Lint your code: `npm run lint` (after you've installed a linter, of course)
-- Run your tests: `npm t` (don't forget to write some!)
+- Start the local dev server: `npm install && npm start`
+
+## Example app from Courier Live broadcast: https://www.youtube.com/watch?v=NelieLCM0bY
+
+In this example app, we take a simple webpage with a contact form and add multiple notification channels to Slack and Twilio.
+
 
 ## Reference
 
